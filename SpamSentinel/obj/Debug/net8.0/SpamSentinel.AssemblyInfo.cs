@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpamSentinel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b835133feb73a79b15d5580d4d6f6fe29363e2f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8816cade24307d071d9c314a47ea9e0af7930746")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpamSentinel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpamSentinel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
