@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamSentinel", "SpamSentinel\SpamSentinel.csproj", "{24A11093-3648-43F0-9B19-C0121B1CEE4F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpamSentinelServer", "SpamSentinelServer\SpamSentinelServer.csproj", "{412F2427-86C8-4026-A4B3-475485E1815A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{24A11093-3648-43F0-9B19-C0121B1CEE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24A11093-3648-43F0-9B19-C0121B1CEE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24A11093-3648-43F0-9B19-C0121B1CEE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{412F2427-86C8-4026-A4B3-475485E1815A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{412F2427-86C8-4026-A4B3-475485E1815A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{412F2427-86C8-4026-A4B3-475485E1815A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{412F2427-86C8-4026-A4B3-475485E1815A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
